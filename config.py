@@ -86,13 +86,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/0d0d6323a7f0ea9f4ffcb.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/lp56nx.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/9acd828ec45a363add2e9.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/p69h9d.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/lp56nx.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
@@ -100,7 +100,7 @@ SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/p69h9d.jpg"
 
 
 def time_to_seconds(time):
